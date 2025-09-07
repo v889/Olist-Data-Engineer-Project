@@ -79,25 +79,3 @@
                 v
            [ Power BI Reports ]
 ```
-
----
-
-### 🔹 LinkedIn Post Draft
-
-🚀 Excited to share my latest **Data Engineering project** where I implemented the **Medallion Architecture (Bronze → Silver → Gold)** using Azure services on the **Olist E-commerce dataset**!
-
-🔹 **Tech Stack Used**:
-
-* **Azure Data Factory (ADF)** → Ingestion from raw CSVs into ADLS Gen2 (Bronze).
-* **Azure Databricks (PySpark)** → Data cleaning, joins, enrichment with MongoDB, stored in Parquet/Delta (Silver).
-* **Azure Synapse Analytics** → Created views & external tables for business-ready datasets (Gold).
-* **Power BI** → Interactive dashboards for revenue, customer retention, and product insights.
-
-💡 Key Highlights:
-
-* Designed an **end-to-end data pipeline** with modern **Lakehouse architecture**.
-* Enriched datasets using external **MongoDB** metadata.
-* Automated data flow from **raw to analytics-ready** tables.
-
-📊 Outcome: Business stakeholders can now explore **real-time insights** on sales performance, product categories, and customer trends through **Power BI dashboards**.
-
