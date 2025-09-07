@@ -1,19 +1,4 @@
-🏗 Project: Olist E-commerce Data Pipeline using Medallion Architecture
-🔹 Architecture Flow
 
-Bronze Layer (Raw Ingestion)
-
-Data stored in Azure Data Lake Storage Gen2 (ADLS) in CSV format.
-
-Sources: Olist datasets (Orders, Customers, Payments, Products, Sellers, Reviews, Geolocation).
-
-🔧 Tool: Azure Data Factory (ADF) → Ingest raw files into ADLS bronze/.
-
-Silver Layer (Transformation & EnrichmentGot it 🚀 Vishal! Since you’re preparing to share this project on **LinkedIn**, the best way is to present your work as a **modern Medallion Architecture pipeline** (Bronze → Silver → Gold) showing how you’ve integrated **Azure Data Factory, Databricks, ADLS Gen2, Synapse, MongoDB, and Power BI**.
-
-Here’s a clean **architecture you can showcase**:
-
----
 
 ## 🏗 Project: Olist E-commerce Data Pipeline using Medallion Architecture
 
